@@ -1,6 +1,8 @@
 # PiSlicesDaily
 Creates one of the greatest (if not the greatest) twitter accounts in the world
 
+[@PiSlicesDaily](https://twitter.com/PiSlicesDaily)
+
 ## Contents
 
 ### SliceOfPi.wl
